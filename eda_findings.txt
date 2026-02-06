@@ -1,0 +1,8 @@
+Key Insights from EDS:
+
+- The dataset contains 545 rows and 13 columns, indicating a moderate-sized dataset suitable for exploratory data analysis.
+- Missing values were identified and quantified across columns; appropriate handling steps were applied before analysis.
+- Outliers were detected in numerical variables using the Interquartile Range (IQR) method.
+- Identified outliers were capped to preserve data integrity and avoid loss of valuable observations.
+- A strong positive correlation was observed between house price and area-related features, indicating that larger properties tend to have higher prices.
+- Categorical attributes showed weak correlation with price, suggesting limited linear influence on the target variable.
